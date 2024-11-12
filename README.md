@@ -1,5 +1,11 @@
 ## Hi <3 :)
 
+yale student majoring in computer science & fine arts. previously at fidelity investments and cyclio, producing design & software for design at yale.
+
+[View my resume here](/KristopherAziaborResume.pdf)
+[View my website and portfolio here](krisaziabor.com)
+
+
 <!--
 **krisaziabor/krisaziabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
