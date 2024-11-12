@@ -1,6 +1,7 @@
 ## Hi <3 :)
 
-yale student majoring in computer science & fine arts. previously at fidelity investments and cyclio, producing design & software for design at yale.
+yale student majoring in computer science & fine arts. 
+previously at fidelity investments and cyclio, producing design & software for design at yale.
 
 [View my resume here](/KristopherAziaborResume.pdf)
 
