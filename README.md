@@ -1,3 +1,5 @@
+<div style="background-color: red; color: white; padding: 20px; border-radius: 10px;">
+
 ## Hey! :)
 
 yale student majoring in computer science & fine arts.
@@ -7,6 +9,8 @@ previously at fidelity investments and cyclio, producing design & software for d
 [View my resume here](/KristopherAziaborResume.pdf)
 
 [View my website and portfolio here](https://www.krisaziabor.com)
+
+</div>
 
 
 <!--
