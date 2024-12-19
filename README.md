@@ -1,5 +1,3 @@
-<div style="background-color: red; color: white; padding: 20px; border-radius: 10px;">
-
 ## Hey! :)
 
 yale student majoring in computer science & fine arts.
