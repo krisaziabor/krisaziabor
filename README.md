@@ -1,4 +1,4 @@
-## Hey! :)
+## hey! :)
 
 yale student majoring in computer science & fine arts.
 
