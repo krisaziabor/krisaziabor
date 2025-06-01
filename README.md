@@ -1,4 +1,4 @@
-[view my product & engineering work here](https://product.krisaziabor.com)
+[kris aziabor dot com](https://krisaziabor.com)
 
 </div>
 
